@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Karimah ATM",
+	"description": "A project from Freecodecamp to learn backend",
+	"keywords": ["freecodecamp", "belajar", "backend"],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
